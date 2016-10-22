@@ -38,15 +38,15 @@
 html,
 body {
   overflow-x: hidden;
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
-}
+  font-family: 'Abhaya Libre', serif;
+  }
 
 html {
-  	font-family: 'worksanshairline';
- 'AdobeBlank';}
+  	font-family: 'Abhaya Libre', serif;
+    'AdobeBlank';}
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Noto Serif', serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Noto Serif', serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -325,7 +325,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
-  font-family: 'Ayanna';
+  font-family: 'Noto Serif', serif;
 }
 .page-title,
 .post-title {
@@ -378,7 +378,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Noto Serif', serif;
   color: #ccc;
   text-align: center;
 }
@@ -577,9 +577,9 @@ a.pagination-item:hover {
 /*fonts*/
 
 .si{
-font-family: 'Abhaya Libre';
+font-family: 'Abhaya Libre', serif;
 }
 
 .en{
-font-family: "Abhaya Libre", Helvetica, Arial, sans-serif;
+font-family: 'Abhaya Libre', serif;
 }
